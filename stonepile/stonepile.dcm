@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP JTAG
+D Connector, double row, 02x10
+K connector
+$ENDCMP
+#
+$CMP SWD
+D Connector, double row, 02x10
+K connector
+$ENDCMP
+#
+#End Doc Library

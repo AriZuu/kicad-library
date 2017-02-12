@@ -10,4 +10,9 @@ D Connector, double row, 02x10
 K connector
 $ENDCMP
 #
+$CMP SWDN
+D Connector, double row, 02x05
+K connector
+$ENDCMP
+#
 #End Doc Library
